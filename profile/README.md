@@ -12,8 +12,8 @@
 -->
 
 ### TODO
-- [ ] Initial language design
-- [ ] Lexer
+- [X] Initial language design
+- [X] Lexer
 - [ ] Parser
 - [ ] Basic interpreter
 - [ ] Interpreter CLI
